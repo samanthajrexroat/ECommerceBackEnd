@@ -33,8 +33,8 @@ Product.init(
       defaultValue: 10,
       validate: {
         isNumeric: true,
-      }
-    }
+      },
+    },
   },
   {
     sequelize,
