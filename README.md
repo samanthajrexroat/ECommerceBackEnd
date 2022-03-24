@@ -18,8 +18,8 @@ To install the Back End: <ol><li>Clone the repository to your local machine</li>
 Use this back end to start a server and access a MySQL database using URL endpoints in an API client such as Insomnia.  Users can read, create, update, and delete data in the database by accessing these API enpoints.
 
 View a walk through video of the program here:
-* [Google Drive]()
-* [.mov File]()<br>
+* [Google Drive](https://drive.google.com/file/d/11woBwvoKCwtBl6_svjyxeVAt9cEUK4Hn/view?usp=sharing)
+* [.mov File](./assets/ECommerceBackEnd_Video.mov)<br>
 <img src="">
 
 ## Contributing
